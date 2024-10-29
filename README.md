@@ -19,8 +19,3 @@ The dataset (`soil_measures.csv`) contains:
 - K: Potassium content ratio
 - pH: pH value of the soil
 - crop: Target variable indicating optimal crop type
-
-## Setup
-1. Requirements:
-```python
-pip install -r requirements.txt
